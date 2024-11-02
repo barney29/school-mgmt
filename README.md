@@ -10,7 +10,9 @@ To get started you need to know about _Javascript programming language_ but to u
 - Express - is a light weight backend framework which was built for node js
 
 This school managment is focused on to strength authorization, accountability and transparancy among the client which is _student_ and _the school_.
-**I do not recommend anyone to use this interface since this will suffer your resource**
+
+Currently it manages up to 10,000 students per year but if you have more students you can extend the generate Id section to generate more id than 10,000.
+**I do not recommend anyone to use this interface since this will suffer your resource unless you think that resources don't concern you**
 
 # MODELS
 
